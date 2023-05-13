@@ -16,4 +16,4 @@ Simply plug in your USB-PD capable device in the "Device" port, plug a cable to 
 ![USB-C Splitter](Images/splitter_back.png)
 
 ## License
-This project is licensed under the CERN License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the CERN License - see the [LICENSE](LICENSE) file for details
